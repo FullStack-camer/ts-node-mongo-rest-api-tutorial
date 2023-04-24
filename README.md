@@ -22,7 +22,8 @@ Features:
 **Node version 14.x**
 
 ### Cloning the repository
-
+youtube link 
+https://www.youtube.com/watch?v=b8ZUb_Okxro
 ```shell
 git clone https://github.com/AntonioErdeljac/ts-node-mongo-rest-api-tutorial.git
 ```
